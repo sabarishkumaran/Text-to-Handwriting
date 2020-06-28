@@ -20,4 +20,4 @@
 ## 4 - ScannedImages-to-PDF
 - This converts the scanned image that is passed in arguments to IMG## 
 # Sample Output
-![Sample Output]()
+![Sample Output](https://github.com/sabarishkumaran/Text-to-Handwriting/blob/master/Sample-output.png)
