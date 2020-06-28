@@ -20,4 +20,4 @@
 ## 4 - ScannedImages-to-PDF
 - This converts the scanned image that is passed in arguments to IMG## 
 # Sample Output
-![Sample Output](https://photos.app.goo.gl/iPg2F6eqfcRT5AXh7)
+![Sample Output]()
